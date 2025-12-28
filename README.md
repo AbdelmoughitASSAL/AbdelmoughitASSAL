@@ -92,3 +92,20 @@ analyst = DataAnalyst()
 *© 2024 Abdelmoughit ASSAL • Data Analyst | BI Specialist*
 
 </div>
+
+---
+
+### ✨ **Quick Links**
+- 📁 **[Portfolio Projects](https://github.com/AbdelmoughitASSAL/A.ASSAL-Portfolio)**
+- 💼 **[LinkedIn Profile](https://www.linkedin.com/in/abdelmoughit-assal)**
+- 📧 **[Email Contact](mailto:abdelmoughit.assal@yahoo.com)**
+
+---
+
+<div align="center">
+  
+**Made with ❤️ for data, insights, and meaningful impact**
+
+[![GitHub](https://img.shields.io/badge/GitHub-AbdelmoughitASSAL-181717?style=flat-square&logo=github)](https://github.com/AbdelmoughitASSAL)
+
+</div>
