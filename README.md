@@ -1,4 +1,4 @@
-Here's the enhanced version with the Python class included:
+Here's the enhanced version with animations in the footer:
 
 # Data Analyst | Business Intelligence Specialist
 
@@ -67,4 +67,48 @@ Passionate about data exploration and implementing analytical solutions that enh
 
 ---
 
-**"Transforming data into decisions, insights into impact."**
+<div align="center">
+
+### 📊 **Data-Driven Decision Maker** | 🎯 **Problem Solver** | 📈 **BI Enthusiast**
+
+*"Transforming data into decisions, insights into impact."*
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&duration=3000&pause=1000&color=4A90E2&center=true&vCenter=true&width=500&lines=Data+Visualization+%7C+Business+Intelligence+%7C+SQL+Queries;Dashboard+Development+%7C+Python+Automation+%7C+Statistical+Analysis;Power+BI+%7C+Tableau+%7C+Pandas+%7C+NumPy+%7C+Streamlit;Always+Learning+%7C+Always+Analyzing+%7C+Always+Growing)](https://github.com/AbdelmoughitASSAL)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AbdelmoughitASSAL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelmoughit-assal)
+[![Email](https://img.shields.io/badge/Email-Contact-6D4AFF?style=for-the-badge&logo=yahoomail&logoColor=white)](mailto:abdelmoughit.assal@yahoo.com)
+
+![Profile Views](https://komarev.com/ghpvc/?username=AbdelmoughitASSAL&label=Profile%20Views&color=0e75b6&style=flat)
+![GitHub Followers](https://img.shields.io/github/followers/AbdelmoughitASSAL?label=GitHub%20Followers&style=flat&color=green)
+![Status](https://img.shields.io/badge/Status-Seeking%20Opportunities-blue?style=flat)
+
+**© 2024 Abdelmoughit ASSAL** • Data Analyst | Business Intelligence Specialist  
+*Made with ❤️ for data, insights, and meaningful impact*
+
+</div>
+
+<style>
+@keyframes pulse {
+  0% { opacity: 1; }
+  50% { opacity: 0.7; }
+  100% { opacity: 1; }
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+img[src*="badge"] {
+  transition: transform 0.3s ease;
+}
+
+img[src*="badge"]:hover {
+  transform: translateY(-2px);
+}
+
+.animated-footer {
+  animation: fadeIn 2s ease-in-out;
+}
+</style>
